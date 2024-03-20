@@ -1,4 +1,4 @@
-We type the sentence "nc jupiter.challenges.picoctf.org 48247" in the console.
+We type the sentence "nc jupiter.challenges.picoctf.org 48247" in the terminal.
 
 The return is below:
 ```
